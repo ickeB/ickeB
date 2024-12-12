@@ -1,0 +1,5 @@
+jupyterlab
+pyyaml
+gitpython
+jsonschema
+voila
