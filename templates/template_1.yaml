@@ -1,0 +1,7 @@
+service:
+  title: "Default WFS Service"
+  abstract: "A default WFS service configuration."
+layers:
+  - name: "layer_1"
+    title: "Layer 1"
+    crs: "EPSG:4326"
